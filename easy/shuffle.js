@@ -7,3 +7,5 @@ const shuffle = function(nums, n) {
 
     return shuffledArr;
 };
+
+console.log(shuffle([1, 2, 3, 4]);
