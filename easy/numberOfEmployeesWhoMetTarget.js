@@ -9,3 +9,5 @@ const numberOfEmployeesWhoMetTarget = function(hours, target) {
 
     return employees;
 };
+
+console.log(numberOfEmployeesWhoMetTarget([1, 2, 3, 4, 5, 6], 5));
