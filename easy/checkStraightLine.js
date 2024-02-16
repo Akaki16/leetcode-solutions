@@ -44,6 +44,7 @@ console.log(
     [6, 7],
   ])
 );
+
 console.log(
   checkStraightLine([
     [1, 1],
